@@ -23,3 +23,4 @@ Projects: RI Algorithm  and SB Algorithm
 
 ![graph3](https://github.com/user-attachments/assets/ae30d415-ec2c-4227-b7df-705d23ab2250)
 
+![sb2](https://github.com/user-attachments/assets/9ddce045-fc1a-42ba-9d38-62f309ed505f)
